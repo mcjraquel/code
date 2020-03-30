@@ -1,0 +1,1 @@
+Hello. This is a repo of my coding projects outside Codecademy and other educational platforms.
